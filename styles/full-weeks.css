@@ -1,3 +1,7 @@
 body{
     background-color: cadetblue;
 }
+
+li{
+    list-style: none;
+}
