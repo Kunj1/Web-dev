@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+    margin: 50px;
+}
+h1{
+    font-family: 'Oswald',sans-serif;
+    color: red;
+}
+p{
+    color: blue;
+}
+a{
+    color: rgb(10, 45, 34);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
