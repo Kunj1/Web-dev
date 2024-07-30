@@ -1,7 +1,21 @@
 body{
     background-color: cadetblue;
 }
+h1{
+    font-size: 50px;
+    color: rgb(71,62,62);
+}
+h2{
+    font-size: 30px;
+}
 
 li{
     list-style: none;
+}
+p{
+    text-align: center;
+}
+a{
+    background-color: beige;
+    border-radius: 10px;
 }
